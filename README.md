@@ -63,7 +63,7 @@
   - 前置 OCR 解析算力，集成 **Tesseract.js** 直接在浏览器端完成识别，保护数据隐私并极大降低云端请求开销。
   - 设计高内聚低耦合的 **pnpm Monorepo 边界策略**，实现跨终端组件完美复用，将 CI/CD 构建缓存命中率提升至 **85%+**。
   - **TypeChain** 强类型约束注入全栈与智能合约交互，从源头消灭运行时的 ABI 参数不对齐报错痛点。
-- 🛠 **标签：** `<kbd>Vue 3</kbd>` `<kbd>Konva</kbd>` `<kbd>Tesseract.js</kbd>` `<kbd>viem</kbd>` `<kbd>Vite</kbd>`
+- 🛠 **标签：** <kbd>Vue 3</kbd> <kbd>Konva</kbd> <kbd>Tesseract.js</kbd> <kbd>viem</kbd> <kbd>Vite</kbd>
 
 ### 2. 🧩 多链统一连接基建 SDK
 > **领域：** Web3 核心基建 &nbsp; | &nbsp; **形态：** NPM 团队内部级核心开源库
@@ -73,7 +73,7 @@
   - 使用 **Turborepo** 维护多达 11 个原子级模块，串联 Changesets 全自动化管理版本的平滑切角与 Changelog 溯源。
   - 产出近千行核心调度类引擎，完全封装并抹平内部跨越 `10+` 条异构主链（Cosmos、Tron、EVM等）的底层签名调用差异（如 `eth_requestAccounts`, `cosmos_signAmino`）。
   - 打通强隔离硬件安全边界限制，实现底层对 Ledger 实体设备的 `USB/BLE/HID` 多通信通道协议全面覆盖。
-- 🛠 **标签：** `<kbd>TypeScript</kbd>` `<kbd>pnpm Workspaces</kbd>` `<kbd>Vitest</kbd>` `<kbd>ethers.js</kbd>`
+- 🛠 **标签：** <kbd>TypeScript</kbd> <kbd>pnpm Workspaces</kbd> <kbd>Vitest</kbd> <kbd>ethers.js</kbd>
 
 ### 3. 🤖 AI 辅助智能浏览器扩展套件 (AI Browser Extension)
 > **领域：** AI 工具链拓展 &nbsp; | &nbsp; **形态：** Chrome Extension 体系 Monorepo
@@ -83,7 +83,7 @@
   - 推翻原生粗放型架构，基于 `Popup / Content Script / Background Worker` 范式进行三端分离。使用并接入 **ky** 组件接替老旧请求库，令包体积锐减 `40%+`，规避由于内存占用引发的审核拒批。
   - 使用 **mark.js** 侵入式接管虚拟 DOM 树并执行文本寻址极速关联，全面兼容市面上极度动态化的页面(React SPA / Vue SSR)。
   - 接入 **GSAP** 工业级流体动画库并植入于注入面板反馈中，拉高插件级应用体验天花板。
-- 🛠 **标签：** `<kbd>Vue 3</kbd>` `<kbd>mark.js</kbd>` `<kbd>GSAP</kbd>` `<kbd>ky</kbd>`
+- 🛠 **标签：** <kbd>Vue 3</kbd> <kbd>mark.js</kbd> <kbd>GSAP</kbd> <kbd>ky</kbd>
 
 ### 4. 🚀 跨平台全栈生态 (Telegram Bot + Mini App 矩阵)
 > **领域：** TG 全球亿级流量入口 &nbsp; | &nbsp; **形态：** Telegram Web App (TWA) + 微服务中台
@@ -93,7 +93,7 @@
   - 大胆采用 **Deno** 搭配 **Oak** 框架接管陈旧的 Node.js 作为 Bot 调度节点，利用内置 TypeScript 安全沙箱和拦截装饰器（`@Logger/@Trycatch`）构建高可用中间件网关防御屏障。
   - 小程序侧突破局限性与表单展示，引入 **Pixi.js** / **Konva** 组合重新构筑出富交互沉浸界面（如大型跨端触控操作与游戏农场调度渲染）。
   - 解决原生各端异构割裂问题，用一套 **postcss** 配置层完美跑通 TG 原生 iOS / Android 以至于 Windows 客户端内嵌的多核 WebView 流畅布局。
-- 🛠 **标签：** `<kbd>Deno</kbd>` `<kbd>grammy</kbd>` `<kbd>Pixi.js</kbd>` `<kbd>Vue/React</kbd>`
+- 🛠 **标签：** <kbd>Deno</kbd> <kbd>grammy</kbd> <kbd>Pixi.js</kbd> <kbd>Vue/React</kbd>
 
 
 ---
