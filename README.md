@@ -2,8 +2,8 @@
 <h3 align="center">资深前端工程师 / 全栈工程师（Web3 & AI 方向）</h3>
 
 <p align="center">
-  <a href="mailto:song52wow@gmail.com"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/song52wow"><img src="https://img.shields.io/badge/github-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="mailto:song52wow@gmail.com"><img src="https://img.shields.io/badge/song52wow@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/song52wow"><img src="https://img.shields.io/badge/song52wow-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <img src="https://img.shields.io/badge/Experience-8%2B_Years-blue?style=for-the-badge" alt="Experience" />
   <img src="https://img.shields.io/badge/Location-Shenzhen-success?style=for-the-badge" alt="Location" />
 </p>
